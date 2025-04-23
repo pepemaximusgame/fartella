@@ -51,7 +51,7 @@ useEffect(() => {
               <div className="social-icon">
                 <a href="https://pump.fun/"><img src={dexLogo} alt="dexfartella" /></a>
                 <a href="https://x.com/fartella"><img src={xLogo} alt="xfartella" /></a>
-                <a href="https://t.me/fartella"><img src={teleLogo} alt="xfartella" /></a>
+                {/* <a href="https://t.me/fartella"><img src={teleLogo} alt="xfartella" /></a> */}
               </div>
               {/* <HashLink to='#connect'>
                 <button className="vvd"><span>Let’s Connect</span></button>
