@@ -19,7 +19,7 @@ export const GlobeExperience = () => {
  <Canvas camera={{ position: [0, 0, 15], fov: 45 }} >
         <ambientLight intensity={0.5}  />
         <directionalLight position={[10, 10, 5]} intensity={1} />
-        <group rotation-y={degToRad(-220)} position-x={1} position-y={-6}>
+        <group rotation-y={degToRad(-220)} position-x={-1} position-y={-6}>
         <OrbitControls
       enablePan={false} // Prevents panning of the scene
       enableZoom={false} // Disables zoom on tablets

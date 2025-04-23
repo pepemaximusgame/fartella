@@ -18,7 +18,7 @@ export const ChikulExperience = () => {
  <Canvas camera={{ position: [0, 0, 15], fov: 45 }} >
         <ambientLight intensity={0.5}  />
         <directionalLight position={[10, 10, 5]} intensity={1} />
-        <group rotation-y={degToRad(-226)} position-x={0} position-y={-5.6}>
+        <group rotation-y={degToRad(-226)} position-x={-3} position-y={-5}>
         <OrbitControls
       enablePan={false} // Prevents panning of the scene
       enableZoom={false} // Disables zoom on tablets
