@@ -20,8 +20,8 @@ import { MomentsExperience } from "./MomentsExperience";
                 <Col xs={12} md={6} xl={6}>
                 {/* <span className="tagline">Bigger  Better Stronger</span> */}
                 <h1>{'The Gorgeous'}<span className="wrap"></span></h1>
-                <h1>{'Fartella'}<span className="wrap">!</span></h1>
-                <p>She’s bold, she’s beautiful, and yes—she toots. Fartella isn’t just a coin, she’s a vibe. With curves in all the right charts and a sparkle that outshines the blockchain, Fartella floats through the crypto world with grace, glam, and a hint of mischief in the air. Every puff she passes is a perfume of profit. Every move she makes? Pure poise and power.
+                <h1>{'Fartass'}<span className="wrap">!</span></h1>
+                <p>She’s bold, she’s beautiful, and yes—she toots. Fartass isn’t just any other fart and ass coin, she’s a vibe. With curves in all the right charts and a sparkle that outshines the blockchain, Fartass floats through the crypto world with grace, glam, and a hint of mischief in the air. Every puff she passes is a perfume of profit. Every move she makes? Pure poise and power.
 
 She’s not here to play small. She’s here to turn heads, inflate wallets, and leave a trail of fabulous.
 

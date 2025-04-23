@@ -19,8 +19,8 @@ import { RickExperience } from "./RickExperience";
                 <h1>{'About us'}<span className="wrap"></span></h1>
                 {/* <h2>{'About Fred the Fish Coin'}<span className="wrap">!</span></h2> */}
                 <p>
-                Fartella – Powered by Sass, Backed by Blockchain
-Fartella is a next-gen meme token designed to bring fun, inclusivity, and a little unexpected gas to the crypto space. Combining cheeky charm with real utility, Fartella fuels a community of bold holders who aren’t afraid to laugh, lead, and innovate. Built on a secure blockchain and driven by decentralized values, Fartella is more than a meme—it’s a movement.
+                Fartass – Powered by fart and ass, Backed by Blockchain
+Fartass is a next-gen meme token designed to bring fun, inclusivity, and a little unexpected gas to the crypto space. Combining cheeky charm with real utility, Fartass fuels a community of bold holders who aren’t afraid to laugh, lead, and innovate. Built on a secure blockchain and driven by decentralized values, Fartass is more than a meme—it’s a movement.
 
 Smarter. Funnier. Fartier.</p>
                 {/* <button className="pointer-events-auto" onClick={() => {navigate('/game')}} >Let's Play<ArrowRightCircle size={25}/></button> */}

@@ -64,9 +64,9 @@ import Particles from "./Particles";
             <Row className="align-items-center">
                 <Col xs={12} md={6} xl={6}>
                 <span className="tagline">Funny Fierce Fartella !</span>
-                <h1>{'Fartella- The Queen of Toot'}<span className="wrap">!</span></h1>
-                <p>Born from the depths of sass and gas, Fartella is the world’s first female-powered fartcoin that’s breaking wind and financial barriers. 
-                Fueled by glitter, giggles, and unapologetic poots, she’s here to disrupt crypto with style and a little air. Backed by the Fartchain (smells like innovation), Fartella rewards holders who aren’t afraid to toot their own horn.
+                <h1>{'Fartass- The Queen of Fart and Ass'}<span className="wrap">!</span></h1>
+                <p>Born from the depths of fart and ass, Fartass is the world’s first female-powered fartcoin that’s breaking wind and financial barriers. 
+                Fueled by glitter, giggles, and unapologetic poots, she’s here to disrupt crypto with style and a little air. Backed by the Fartass chain (smells like innovation), Fartass rewards holders who aren’t afraid to toot their own horn.
                 Invest with gas. Hold with class. Welcome to the fartella world.</p>
                 <button className="pointer-events-auto " onClick={handleShow} >
                     Let's Fart

@@ -45,8 +45,8 @@ import { ChikulExperience } from "./ChikulExperience";
         <Container>
             <Row className="align-items-center">
                 <Col xs={12} md={6} xl={6}>
-                <h1>{'Fartella-The Future of Finance'}<span className="wrap">!</span></h1>
-                <p>Introducing Fartella Coin—the first crypto that isn’t afraid to break wind and break barriers. Powered by the unstoppable force of meme magic and blockchain brilliance, Fartella is more than just a fart coin—it’s a gas-powered revolution. Built for the bold, the cheeky, and the crypto-curious, Fartella combines utility with humor to create a token that's both fun and functional. Join the Fartella fam and ride the gust of change all the way to the moon. Because in the world of crypto, sometimes it pays to let one rip! </p>
+                <h1>{'Fartass-The Future of Finance'}<span className="wrap">!</span></h1>
+                <p>Introducing Fartass Coin—the first crypto that isn’t afraid to break wind and break barriers. Powered by the unstoppable force of meme magic and blockchain brilliance, Fartass is more than just a fart and ass coin—it’s a gas-powered revolution. Built for the bold, the cheeky, and the crypto-curious, Farass combines both fart and ass utility with humor to create a token that's both fun and functional. Join the Fartass fam and ride the gust of change all the way to the moon. Because in the world of crypto, sometimes it pays to let one rip! </p>
                 </Col>
                 <Col xs={12} md={6} xl={6}>
                 {/* <img src={logo} alt="Header img"/> */}
