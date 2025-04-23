@@ -49,8 +49,8 @@ useEffect(() => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://pump.fun/coin/"><img src={dexLogo} alt="dexfartella" /></a>
-                <a href="https://x.com/fartass_coin"><img src={xLogo} alt="xfartella" /></a>
+                <a href="https://pump.fun/coin/2oPgfXLxXCUVWras3wawUp69MHowCtYbW2YQcwvmpump"><img src={dexLogo} alt="dexfartass" /></a>
+                <a href="https://x.com/fartass_coin"><img src={xLogo} alt="xfartass" /></a>
                 {/* <a href="https://t.me/fartella"><img src={teleLogo} alt="xfartella" /></a> */}
               </div>
               {/* <HashLink to='#connect'>
