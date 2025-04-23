@@ -28,7 +28,9 @@ export const GlobeExperience = () => {
       minPolarAngle={Math.PI / 5} // Minimum angle for vertical rotation
       maxPolarAngle={Math.PI / 2} // Maximum angle for vertical rotation
     />
+    <Particles count={800}/>
        <Globe scale={0.1} animation={animation}/>
+       
        {/* <RedParticles count={800} /> */}
        </group>
     </Canvas>

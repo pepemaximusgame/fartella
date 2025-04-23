@@ -5,13 +5,13 @@ import logo from '/images/logo.png';
 // import HomeExperience from "./HomeExperience";
 // import LogoShowcase from "./LogoShowcase";
 import { useNavigate } from "react-router-dom";
-import { FishExperience } from "./FishExperience";
 import { GlobeExperience } from "./GlobeExperience";
 // import AnimatedCounter from "./AnimatedCounter";
 
 import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
+import Particles from "./Particles";
 
 // function Example() {
 //   const [show, setShow] = useState(false);
@@ -77,6 +77,7 @@ import Modal from 'react-bootstrap/Modal';
 
                 <div>
                     <GlobeExperience/>
+                   
                 </div>
 
                 {/* <figure>
